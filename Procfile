@@ -1,0 +1,1 @@
+eb: gunicorn curriculo_leonardo_base.wsgi 
